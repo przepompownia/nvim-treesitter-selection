@@ -1,5 +1,4 @@
-<div align="center">
-  <h1>nvim-treesitter-selection</h1>
+<h1>nvim-treesitter-selection</h1>
 
 At the moment the goal of this Neovim plugin is to extract incremental selection code from the master branch of [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) to make it working on Nvim 0.10 and later. Note that only `init_selection`, `node_incremental` and `node_decremental` equivalents are now included here. 
 
